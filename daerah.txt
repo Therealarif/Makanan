@@ -4,6 +4,8 @@ Lamongan
 -tahu campur
 -lontong balap
 -mie ayam
+-sate ayam
+-sate sapi
 
 Luar negeri
 -MAKARONI
@@ -11,3 +13,4 @@ Luar negeri
 -friend fries
 -pepsi
 -bacon
+-keju
