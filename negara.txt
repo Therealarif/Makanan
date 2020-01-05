@@ -1,7 +1,9 @@
 asia
 -jepang
 -singapura
+-indonesia
 
-eropa
--jerman
--italia
+amerika
+-kanada
+-amerika serikat
+-panama
