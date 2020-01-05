@@ -1,0 +1,13 @@
+asia
+-jepang
+-indonesia
+-arab saudi
+
+amerika
+-kanada
+-amerika serikat
+-panama
+-california
+
+afrika
+-mesir
