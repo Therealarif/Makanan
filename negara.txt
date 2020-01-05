@@ -1,0 +1,7 @@
+asia
+-jepang
+-singapura
+
+eropa
+-jerman
+-italia
